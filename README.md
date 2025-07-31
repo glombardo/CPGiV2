@@ -254,9 +254,7 @@ adstock[t] = media[t] + λ*adstock[t-1]
 response = α * spend^γ / (spend^γ + μ^γ)
 ```
 
-## Contributing
 
-We welcome contributions. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Development Setup
 ```bash
@@ -271,15 +269,7 @@ black .
 flake8 .
 ```
 
-## License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)
 
 ---
 
